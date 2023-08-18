@@ -8,3 +8,15 @@
 
 # video
 https://www.youtube.com/watch?v=8YSr57MMU9E
+
+# Features
+top 10 books
+search bar
+recommends upto 10 books
+dark/light Features according to your system
+
+# website 
+https://suv00m-debut-brs-webpage-iud7ph.streamlit.app/
+
+# Documentation
+[HLD book.pdf](https://github.com/Pranav98-raj/Book-Recommended-system/files/12381755/HLD.book.pdf)
